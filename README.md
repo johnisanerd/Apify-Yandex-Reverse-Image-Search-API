@@ -270,4 +270,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Yandex Reverse Image Search API to power your image monitoring, brand protection, and source hunting workflows with reliable, structured results.*
 
-Last Updated: 2026.08.03
+Last Updated: 2026.08.04
